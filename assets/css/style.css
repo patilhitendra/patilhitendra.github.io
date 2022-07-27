@@ -681,6 +681,9 @@ small {
 }
 
 @media (max-width: 600px) {
+  .small-screen-mt-2{
+    margin-top: 20px !important;
+  }
   h2 {
     font-size: 22px;
     line-height: 200%;
